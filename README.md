@@ -1,10 +1,6 @@
-<div align="center">
-
 # Hexadevs
 
 ### Aprende desarrollo construyendo proyectos reales.
-
-</div>
 
 Hexadevs es una academia online enfocada en desarrollo de software moderno y aprendizaje práctico.
 
